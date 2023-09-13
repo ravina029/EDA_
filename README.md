@@ -1,0 +1,1 @@
+this  is just the data analysis of zomato food app. data is downloaded from kagggle dataset also the file is attached. 
